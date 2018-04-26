@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Course
+comment1.params=
+comment1.target=void\ createCourse()
+comment2.params=
+comment2.target=void\ printCourse()
+comment3.params=
+comment3.target=void\ printCourseFormatted()
+numComments=4
